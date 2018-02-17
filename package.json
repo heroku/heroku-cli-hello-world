@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@oclif/dev-cli": "^1.2.13",
-    "@oclif/plugin-help": "^1.0.5",
+    "@oclif/plugin-help": "^1.1.0",
     "@oclif/test": "^1.0.1",
     "@oclif/tslint": "^1.0.2",
     "@types/chai": "^4.1.2",

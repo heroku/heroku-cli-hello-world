@@ -49,7 +49,7 @@ jobs:
 
 workflows:
   version: 2
-  "heroku-cli-hello-world":
+  "@heroku-cli/plugin-hello-world":
     jobs:
       - node-latest
       - node-8
