@@ -37,7 +37,7 @@ $ npm install -g @heroku-cli/plugin-hello-world
 $ heroku COMMAND
 running command...
 $ heroku (-v|--version|version)
-@heroku-cli/plugin-hello-world/0.0.0 (darwin-x64) node-v9.5.0
+@heroku-cli/plugin-hello-world/0.0.1 (darwin-x64) node-v9.5.0
 $ heroku --help [COMMAND]
 USAGE
   $ heroku COMMAND
@@ -48,4 +48,25 @@ USAGE
 # Commands
 
 * [heroku hello:world [FILE]](#hello-world-file)
+## hello:world [FILE]
+
+describe the command here
+
+```
+USAGE
+  $ heroku hello:world [FILE]
+
+OPTIONS
+  -f, --force
+  -n, --name=name  name to print
+
+EXAMPLES
+  $ oclif-example hello
+  hello world from ./src/hello.ts!
+
+  $ oclif-example hello --name myname
+  hello myname from .src/hello.ts!
+```
+
+_See code: [src/commands/hello/world.ts](https://github.com/heroku/heroku-cli-hello-world/blob/v0.0.1/src/commands/hello/world.ts)_
 <!-- commandsstop -->
