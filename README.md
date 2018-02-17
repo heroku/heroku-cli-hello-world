@@ -37,7 +37,7 @@ $ npm install -g @heroku-cli/plugin-hello-world
 $ heroku COMMAND
 running command...
 $ heroku (-v|--version|version)
-@heroku-cli/plugin-hello-world/0.0.1 (darwin-x64) node-v9.5.0
+@heroku-cli/plugin-hello-world/0.0.2 (darwin-x64) node-v9.5.0
 $ heroku --help [COMMAND]
 USAGE
   $ heroku COMMAND
@@ -68,5 +68,5 @@ EXAMPLES
   hello myname from .src/hello.ts!
 ```
 
-_See code: [src/commands/hello/world.ts](https://github.com/heroku/heroku-cli-hello-world/blob/v0.0.1/src/commands/hello/world.ts)_
+_See code: [src/commands/hello/world.ts](https://github.com/heroku/heroku-cli-hello-world/blob/v0.0.2/src/commands/hello/world.ts)_
 <!-- commandsstop -->
