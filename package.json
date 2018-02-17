@@ -1,5 +1,5 @@
 {
-  "name": "heroku-cli-hello-world",
+  "name": "@heroku-cli/plugin-hello-world",
   "description": "heroku CLI example plugin",
   "version": "0.0.0",
   "author": "Jeff Dickey @jdxcode",
