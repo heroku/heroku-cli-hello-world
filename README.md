@@ -69,3 +69,4 @@ EXAMPLES
 
 _See code: [src/commands/hello/world.ts](https://github.com/heroku/heroku-cli-hello-world/blob/v0.0.2/src/commands/hello/world.ts)_
 <!-- commandsstop -->
+test
